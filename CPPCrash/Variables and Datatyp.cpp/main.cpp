@@ -11,8 +11,8 @@ int main(){
     cout<<age<<endl;
 
     //definition
-    int age=19;
-    cout
+    // int age=19;
+    // cout
 
     return 0;
 
