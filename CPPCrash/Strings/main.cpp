@@ -17,7 +17,7 @@ int main(){
   }
   else {
     cout<<"Found"<<endl;
-  }
+  }     
 
 
     // string a ="love";
