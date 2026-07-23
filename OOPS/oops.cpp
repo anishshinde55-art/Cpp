@@ -38,13 +38,6 @@ public:
 
      }
     
- 
-    
-
-
-
-
-
     //methods//function jo class ke andar hai//member functions
     void changeDept(string newDept){
         dept=newDept;
