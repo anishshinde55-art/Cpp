@@ -4,6 +4,7 @@ using namespace std;
 int main(){
     // int marks[5]={99,100,54,36,88};
     // int size=5;
+   
    int size=5;
     int marks[size];
      for (int i=0;i<size;i++){
@@ -15,7 +16,7 @@ int main(){
      for(int i=0;i<size;i++){
          cout<<marks[i]<<endl;
      }
-
+     // int price[]={18,34,56};
    
     
 
@@ -32,7 +33,7 @@ int main(){
 
 
 
-      // int price[]={18,34,56};
+      
     return 0;
 }
 
